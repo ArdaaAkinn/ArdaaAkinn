@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I am:
+- 19 Years Old 
+- From Turkey 
+- A Freshman at Bilkent University ✏ 
 <!--
 **ArdaaAkinn/ArdaaAkinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
